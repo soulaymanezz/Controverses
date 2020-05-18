@@ -84,3 +84,27 @@
   background: #2dc997;
   border: 2px solid #2dc997;
 }
+
+.section-header .cartoProb {
+  background: url(../img/cartoProb.png) center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 700px;
+  width: 1100px;
+  }
+
+  .section-header .cartoAct1 {
+  background: url(../img/cartoAct1.png) center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 700px;
+  width: 1100px;
+  }
+
+   .section-header .cartoAct2 {
+  background: url(../img/cartoAct2.png) center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 700px;
+  width: 1100px;
+  }
