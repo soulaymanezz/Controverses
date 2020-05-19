@@ -117,3 +117,26 @@
   margin-bottom: 5px;
   margin-top: 20px;
 }
+
+#about .photo {
+  width: 200px;
+  height: 200px;
+  background-image: url(../img/MariePeltier.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  float: left;
+  -webkit-box-shadow: 5px 5px 15px -3px #6D6D6D; 
+  box-shadow: 5px 5px 15px -3px #6D6D6D;
+  
+}
+
+ #about .description .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+#about .description .text {
+  padding-left: 300px;
+}
+
