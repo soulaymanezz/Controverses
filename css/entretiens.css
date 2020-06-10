@@ -91,6 +91,17 @@
   padding: 80px 0 60px 0;
 }
 
+#entretien2 {
+  height: 400px;
+  background: #f7f7f7;
+  padding: 80px 0 60px 0;
+}
+
+#entretien3 {
+  height: 400px;
+  background: #f7f7f7;
+  padding: 80px 0 60px 0;
+}
 
 #entretien1 .section-header .section-description {
   text-align: center;
@@ -101,7 +112,39 @@
   color: #6B6B6B; 
 }
 
+#entretien2 .section-header .section-description {
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  color: #6B6B6B; 
+}
+
+#entretien3 .section-header .section-description {
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  color: #6B6B6B; 
+}
+
 #entretien1 .section-header .bywho {
+  text-align: right;
+  padding-bottom: 20px;
+  padding-top: 0px;
+  color: #6B6B6B; 
+}
+
+#entretien2 .section-header .bywho {
+  text-align: right;
+  padding-bottom: 20px;
+  padding-top: 0px;
+  color: #6B6B6B; 
+}
+
+#entretien3 .section-header .bywho {
   text-align: right;
   padding-bottom: 20px;
   padding-top: 0px;
@@ -118,7 +161,7 @@
   margin-top: 20px;
 }
 
-#about .photo {
+#about .photo1 {
   width: 200px;
   height: 200px;
   background-image: url(../img/MariePeltier.jpg);
@@ -130,7 +173,31 @@
   
 }
 
- #about .description .title {
+#about .photo2 {
+  width: 200px;
+  height: 200px;
+  background-image: url(../img/MarcelleCulot.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  float: left;
+  -webkit-box-shadow: 5px 5px 15px -3px #6D6D6D; 
+  box-shadow: 5px 5px 15px -3px #6D6D6D;
+  
+}
+
+#about .photo3 {
+  width: 200px;
+  height: 200px;
+  background-image: url(../img/RudyReichstadt.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  float: left;
+  -webkit-box-shadow: 5px 5px 15px -3px #6D6D6D; 
+  box-shadow: 5px 5px 15px -3px #6D6D6D;
+  
+}
+
+ #about .title {
   color: #333;
   font-weight: 700;
   font-size: 32px;
