@@ -79,3 +79,12 @@
   border: 2px solid #fff;
   color: #fff;
 }
+#about .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+#about .description .text {
+  padding-left: 300px;
+}
